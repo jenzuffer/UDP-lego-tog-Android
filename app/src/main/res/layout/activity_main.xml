@@ -11,7 +11,7 @@
         android:id="@+id/button"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
-        android:layout_marginEnd="96dp"
+        android:layout_marginEnd="120dp"
         android:layout_marginBottom="36dp"
         android:text="Forward"
         android:visibility="visible"
